@@ -9,7 +9,7 @@
 #define CALL_FILE "call.out"
 
 ofstream OutFile;
-ofstream CallFile;
+//ofstream CallFile;
 
 static UINT64 icount[MAX_THREADS] = {0};
 //list<ADDRINT> RetAddrLocs;
@@ -41,6 +41,9 @@ VOID Ret(THREADID tid, ADDRINT sp, ADDRINT target, ADDRINT eip, UINT32 push)
  //   cout << "RET " << tid << hex << " " << sp << " " << target << " " << eip << " " << push << endl;
 //    return;
     unsigned int dep = 0;
+    IMG imgR, imgT;
+    string retName = "ANON", targetName = "ANON", rR = "unknown", tR = "unknown";
+
     list<ADDRINT> *tdata = data_ar[tid];
     list<ADDRINT>::iterator sp_iter;// = (*tdata).find(sp);
     list<ADDRINT>::iterator dep_iter;// = (*tdata).find(sp);
@@ -59,15 +62,31 @@ VOID Ret(THREADID tid, ADDRINT sp, ADDRINT target, ADDRINT eip, UINT32 push)
     }
     if (sp_iter == (*tdata).end()) {
 	//		cerr << hex << "ret address not found!! " << sp << " " << *(RetAddrLocs.begin())
+	PIN_LockClient();
+	imgR = IMG_FindByAddress((ADDRINT)eip);
+	imgT = IMG_FindByAddress((ADDRINT)target);
+	PIN_UnlockClient();
+
+	if ( IMG_Valid(imgR) ) {
+	    retName = IMG_Name(imgR);
+	}
+
+	if ( IMG_Valid(imgT) ) {
+	    targetName = IMG_Name(imgT);
+	}
+	rR = RTN_FindNameByAddress((ADDRINT)eip);
+	tR = RTN_FindNameByAddress((ADDRINT)target);
+
+
 	OutFile << tid << hex << "ret address not found!! " << sp << " " << *((*tdata).begin())
-	    << " " << target << " " << eip << endl;
+	    << " " << target << " " << eip << " "<<targetName << " " << retName << " " << tR << " " << rR << endl;
 
     	//cout << "RET FROM RET-2" << tid <<endl;
 	return;
     }
 
     if (sp_iter != (*tdata).begin())
-	OutFile << hex <<"ret address not in the beginning!! " << target<<endl;
+	OutFile << hex <<"ret address not in the beginning!! " << target<<" "<<eip<<endl;
 
 //    depth -= distance((*tdata).begin(), sp_iter) + 1;
       depth -= dep;
@@ -94,7 +113,7 @@ VOID Call(THREADID tid, ADDRINT sp, ADDRINT target, ADDRINT eip)
     list <ADDRINT> *tdata = data_ar[tid];
     (*tdata).push_front(sp);
     depth++;
-    CallFile << hex << sp << " " << target << " " << eip << endl;
+//    CallFile << hex << sp << " " << target << " " << eip << endl;
     //cout << "RET from CALL" << tid <<endl;
 }
 
@@ -165,7 +184,7 @@ VOID Fini(INT32 code, VOID *v)
     OutFile << "TID = " << my_tid;
 
     OutFile.close();
-    CallFile.close();
+//    CallFile.close();
 
 //    cerr << "SIZE" << RetAddrLocs.size() << endl;
 
@@ -187,7 +206,7 @@ int main(int argc, char * argv[])
 	data_ar[i] = new list<ADDRINT>();
 
     OutFile.open(OUT_FILE);
-    CallFile.open(CALL_FILE);
+//    CallFile.open(CALL_FILE);
 
     TRACE_AddInstrumentFunction(Trace, 0);
 
