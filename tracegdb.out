@@ -1,0 +1,541 @@
+$9 = 0x7fffa0e38c18
+0x7fffa0e38c18:	0x0000000000000000
+0x00007fffe043a4d3 in ffi_call_unix64 () from /var/services/homes/adabral/ROP/mozilla-build/mozilla-release/obj-x86_64-unknown-linux-gnu/dist/bin/libxul.so
+0x7fffb10fa870:	0x000000000000000a
+0x00007fffe043a4d7 in ffi_call_unix64 () from /var/services/homes/adabral/ROP/mozilla-build/mozilla-release/obj-x86_64-unknown-linux-gnu/dist/bin/libxul.so
+$10 = 0xa
+$11 = 0x7fffb10fa970
+0x7fffb10fa970:	0x00007fffb10fb158
+0x00007fffe043a4db in ffi_call_unix64 () from /var/services/homes/adabral/ROP/mozilla-build/mozilla-release/obj-x86_64-unknown-linux-gnu/dist/bin/libxul.so
+$12 = 0x7fffb10fa888
+0x7fffb10fa888:	0x0000000000000000
+$13 = 0x7fffe04390c0
+$14 = 0x7fffb10fa7b8
+0x00007fffe043a4df in ffi_call_unix64 () from /var/services/homes/adabral/ROP/mozilla-build/mozilla-release/obj-x86_64-unknown-linux-gnu/dist/bin/libxul.so
+0x7fffb10fa888:	0x00007fffe04390c0
+$15 = 0xa
+0x00007fffe043a4e2 in ffi_call_unix64 () from /var/services/homes/adabral/ROP/mozilla-build/mozilla-release/obj-x86_64-unknown-linux-gnu/dist/bin/libxul.so
+No symbol "rax" in current context.
+$16 = 0x7fffb10fa870
+0x7fffb10fa870:	0x000000000000000a
+$17 = Value can't be converted to integer.
+$18 = 0x7fffb10fa870
+Undefined command: "sip".  Try "help".
+$19 = 0x7fffe4b38bd0
+$20 = 0x7fffb10fa7c0
+$21 = 0x7fffe04390c0
+0x00007fffe043a4e5 in ffi_call_unix64 () from /var/services/homes/adabral/ROP/mozilla-build/mozilla-release/obj-x86_64-unknown-linux-gnu/dist/bin/libxul.so
+$22 = 0x7fffe4b38bd0
+$23 = 0x7fffe043a4c8
+0x00007fffe043a4e8 in ffi_call_unix64 () from /var/services/homes/adabral/ROP/mozilla-build/mozilla-release/obj-x86_64-unknown-linux-gnu/dist/bin/libxul.so
+0x00007fffe043a4eb in ffi_call_unix64 () from /var/services/homes/adabral/ROP/mozilla-build/mozilla-release/obj-x86_64-unknown-linux-gnu/dist/bin/libxul.so
+0x00007fffe043a4ee in ffi_call_unix64 () from /var/services/homes/adabral/ROP/mozilla-build/mozilla-release/obj-x86_64-unknown-linux-gnu/dist/bin/libxul.so
+0x00007fffe043a4f2 in ffi_call_unix64 () from /var/services/homes/adabral/ROP/mozilla-build/mozilla-release/obj-x86_64-unknown-linux-gnu/dist/bin/libxul.so
+0x00007fffe043a4f6 in ffi_call_unix64 () from /var/services/homes/adabral/ROP/mozilla-build/mozilla-release/obj-x86_64-unknown-linux-gnu/dist/bin/libxul.so
+0x00007fffe043a4fa in ffi_call_unix64 () from /var/services/homes/adabral/ROP/mozilla-build/mozilla-release/obj-x86_64-unknown-linux-gnu/dist/bin/libxul.so
+0x00007fffe043a4fe in ffi_call_unix64 () from /var/services/homes/adabral/ROP/mozilla-build/mozilla-release/obj-x86_64-unknown-linux-gnu/dist/bin/libxul.so
+0x00007fffe043a502 in ffi_call_unix64 () from /var/services/homes/adabral/ROP/mozilla-build/mozilla-release/obj-x86_64-unknown-linux-gnu/dist/bin/libxul.so
+0x00007fffe043a504 in ffi_call_unix64 () from /var/services/homes/adabral/ROP/mozilla-build/mozilla-release/obj-x86_64-unknown-linux-gnu/dist/bin/libxul.so
+0x00007fffe043a50a in ffi_call_unix64 () from /var/services/homes/adabral/ROP/mozilla-build/mozilla-release/obj-x86_64-unknown-linux-gnu/dist/bin/libxul.so
+0x00007fffe043a511 in ffi_call_unix64 () from /var/services/homes/adabral/ROP/mozilla-build/mozilla-release/obj-x86_64-unknown-linux-gnu/dist/bin/libxul.so
+$24 = 0x7fffe4b38bd0
+open64 () at ../sysdeps/unix/syscall-template.S:81
+$25 = 0x7fffb10fa868
+0x7fffb10fa7b8:	0x00007fffe04390c0	0x00007fffae5cdfd0
+0x7fffb10fa7c8:	0x0000000000000641	0x0000000000000180
+0x7fffb10fa7d8:	0x0000000000000000
+0x7fffb10fa7b8:	0x00007fffe04390c0	0x00007fffae5cdfd0
+0x7fffb10fa7c8:	0x0000000000000641	0x0000000000000180
+0x7fffb10fa7d8:	0x0000000000000000	0x00007fff00000001
+0x7fffb10fa7e8:	0x00007fffe391b000	0x0000000000000000
+0x7fffb10fa7f8:	0x00007fffb10fa860	0x00007fffa0e38c10
+0x7ffb10fa7b8:	Cannot access memory at address 0x7ffb10fa7b8
+0x7fffb10fa7b8:	0x00007fffe04390c0	0x00007fffae5cdfd0
+0x7fffb10fa7c8:	0x0000000000000641	0x0000000000000180
+0x7fffb10fa7d8:	0x0000000000000000	0x00007fff00000001
+0x7fffb10fa7e8:	0x00007fffe391b000	0x0000000000000000
+0x7fffb10fa7f8:	0x00007fffb10fa860	0x00007fffa0e38c10
+0x7fffb10fa808:	0x00007fffe0102a04	0x0000000000000000
+0x7fffb10fa818:	0x00007fffd35f61c0	0x00007fffb10fa850
+0x7fffb10fa828:	0x00007fffb10fa840	0x00000000457f06f5
+0x7fffb10fa838:	0x00007fffddfea662	0x00000000ffffffff
+0x7fffb10fa848:	0x0000000000000000	0x00007fffddfa6178
+$26 = 0x7fffb10fa868
+0x7fffb10fa7b8:	0x00007fffe04390c0	0x00007fffae5cdfd0
+0x7fffb10fa7c8:	0x0000000000000641	0x0000000000000180
+0x7fffb10fa7d8:	0x0000000000000000	0x00007fff00000001
+0x7fffb10fa7e8:	0x00007fffe391b000	0x0000000000000000
+0x7fffb10fa7f8:	0x00007fffb10fa860	0x00007fffa0e38c10
+0x7fffb10fa808:	0x00007fffe0102a04	0x0000000000000000
+0x7fffb10fa818:	0x00007fffd35f61c0	0x00007fffb10fa850
+0x7fffb10fa828:	0x00007fffb10fa840	0x00000000457f06f5
+0x7fffb10fa838:	0x00007fffddfea662	0x00000000ffffffff
+0x7fffb10fa848:	0x0000000000000000	0x00007fffddfa6178
+0x7fffb10fa858:	0x00007fffe391b000	0x0000000000000000
+0x7fffb10fa868:	0x00007fffe043a514	0x000000000000000a
+0x7fffb10fa878:	0x00007fffa0e38c18
+Breakpoint 6 at 0x7fffe043a514
+Run till exit from #0  open64 () at ../sysdeps/unix/syscall-template.S:81
+
+Breakpoint 6, 0x00007fffe043a514 in ffi_call_unix64 ()
+   from /var/services/homes/adabral/ROP/mozilla-build/mozilla-release/obj-x86_64-unknown-linux-gnu/dist/bin/libxul.so
+$27 = 0x7fffb10fa870
+0x7fffb10fa7b8:	0x00007fffe04390c0	0x00007fffae5cdfd0
+0x7fffb10fa7c8:	0x0000000000000641	0x0000000000000180
+0x7fffb10fa7d8:	0x0000000000000000	0x00007fff00000001
+0x7fffb10fa7e8:	0x00007fffe391b000	0x0000000000000000
+0x7fffb10fa7f8:	0x00007fffb10fa860	0x00007fffa0e38c10
+0x7fffb10fa7b8:	0x00007fffe04390c0	0x00007fffae5cdfd0
+0x7fffb10fa7c8:	0x0000000000000641	0x0000000000000180
+0x7fffb10fa7d8:	0x0000000000000000	0x00007fff00000001
+0x7fffb10fa7e8:	0x00007fffe391b000	0x0000000000000000
+0x7fffb10fa7f8:	0x00007fffb10fa860	0x00007fffa0e38c10
+0x7fffb10fa808:	0x00007fffe0102a04	0x0000000000000000
+0x7fffb10fa818:	0x00007fffd35f61c0	0x00007fffb10fa850
+0x7fffb10fa828:	0x00007fffb10fa840	0x00000000457f06f5
+0x7fffb10fa838:	0x00007fffddfea662	0x00000000ffffffff
+0x7fffb10fa848:	0x0000000000000000	0x00007fffddfa6178
+0x7fffb10fa858:	0x00007fffe4b38c09	0x0000000000000000
+0x7fffb10fa868:	0x00007fffe043a514	0x000000000000000a
+0x7fffb10fa878:	0x00007fffa0e38c18	0x00007fffb10fa970
+0x7fffb10fa888:	0x00007fffe04390c0	0x00007fffb10fafa0
+0x7fffb10fa898:	0x00007fffe36e5b98	0x0000000000000001
+$28 = 0x7fffb10fa870
+$29 = 0x7fffb10fa870
+0x7fffb10fa870:	0x000000000000000a
+0x7fffb10fa888:	0x00007fffe04390c0
+0x00007fffe043a518 in ffi_call_unix64 () from /var/services/homes/adabral/ROP/mozilla-build/mozilla-release/obj-x86_64-unknown-linux-gnu/dist/bin/libxul.so
+$30 = 0x7fffb10fa888
+$31 = 0x0
+0x00007fffe043a51c in ffi_call_unix64 () from /var/services/homes/adabral/ROP/mozilla-build/mozilla-release/obj-x86_64-unknown-linux-gnu/dist/bin/libxul.so
+$32 = 0xa
+$33 = 0x0
+0x00007fffe043a520 in ffi_call_unix64 () from /var/services/homes/adabral/ROP/mozilla-build/mozilla-release/obj-x86_64-unknown-linux-gnu/dist/bin/libxul.so
+$34 = 0x7fffa0e38c18
+0x7fffa0e38c18:	0x0000000000000000
+0x00007fffe043a524 in ffi_call_unix64 () from /var/services/homes/adabral/ROP/mozilla-build/mozilla-release/obj-x86_64-unknown-linux-gnu/dist/bin/libxul.so
+$35 = 0x7fffb10fa970
+0x7fffb10fa970:	0x00007fffb10fb158	0x00007fffe0107f32
+0x7fffb10fa980:	0xfff9000000000000	0x00007fffe03a2f7c
+0x7fffb10fa990:	0x00007fffb10fab20
+0x00007fffe043a528 in ffi_call_unix64 () from /var/services/homes/adabral/ROP/mozilla-build/mozilla-release/obj-x86_64-unknown-linux-gnu/dist/bin/libxul.so
+0x00007fffe043a52f in ffi_call_unix64 () from /var/services/homes/adabral/ROP/mozilla-build/mozilla-release/obj-x86_64-unknown-linux-gnu/dist/bin/libxul.so
+0x00007fffe043a533 in ffi_call_unix64 () from /var/services/homes/adabral/ROP/mozilla-build/mozilla-release/obj-x86_64-unknown-linux-gnu/dist/bin/libxul.so
+0x00007fffe043a536 in ffi_call_unix64 () from /var/services/homes/adabral/ROP/mozilla-build/mozilla-release/obj-x86_64-unknown-linux-gnu/dist/bin/libxul.so
+$36 = 0x7fffb10fa888
+0x00007fffe043a59e in ffi_call_unix64 () from /var/services/homes/adabral/ROP/mozilla-build/mozilla-release/obj-x86_64-unknown-linux-gnu/dist/bin/libxul.so
+0x00007fffe043a5a0 in ffi_call_unix64 () from /var/services/homes/adabral/ROP/mozilla-build/mozilla-release/obj-x86_64-unknown-linux-gnu/dist/bin/libxul.so
+$37 = 0x7fffa0e38c18
+0x00007fffe043a5a3 in ffi_call_unix64 () from /var/services/homes/adabral/ROP/mozilla-build/mozilla-release/obj-x86_64-unknown-linux-gnu/dist/bin/libxul.so
+A syntax error in expression, near `%rdi'.
+$38 = 0x7fffa0e38c18
+0x7fffb10fa888:	0x00007fffe04390c0	0x00007fffb10fafa0
+0x7fffb10fa898:	0x00007fffe36e5b98	0x0000000000000001
+0x7fffb10fa8a8:	0x00007fffb10fa910
+
+Breakpoint 5, 0x00007fffe04390c0 in ffi_call ()
+   from /var/services/homes/adabral/ROP/mozilla-build/mozilla-release/obj-x86_64-unknown-linux-gnu/dist/bin/libxul.so
+Continuing.
+
+Breakpoint 1, 0x00007fffe0438f44 in ffi_call ()
+   from /var/services/homes/adabral/ROP/mozilla-build/mozilla-release/obj-x86_64-unknown-linux-gnu/dist/bin/libxul.so
+Continuing.
+
+Breakpoint 2, 0x00007fffe043a4c8 in ffi_call_unix64 ()
+   from /var/services/homes/adabral/ROP/mozilla-build/mozilla-release/obj-x86_64-unknown-linux-gnu/dist/bin/libxul.so
+0x00007fffe043a4cc in ffi_call_unix64 () from /var/services/homes/adabral/ROP/mozilla-build/mozilla-release/obj-x86_64-unknown-linux-gnu/dist/bin/libxul.so
+0x00007fffe043a4d0 in ffi_call_unix64 () from /var/services/homes/adabral/ROP/mozilla-build/mozilla-release/obj-x86_64-unknown-linux-gnu/dist/bin/libxul.so
+0x00007fffe043a4d3 in ffi_call_unix64 () from /var/services/homes/adabral/ROP/mozilla-build/mozilla-release/obj-x86_64-unknown-linux-gnu/dist/bin/libxul.so
+0x00007fffe043a4d7 in ffi_call_unix64 () from /var/services/homes/adabral/ROP/mozilla-build/mozilla-release/obj-x86_64-unknown-linux-gnu/dist/bin/libxul.so
+0x00007fffe043a4db in ffi_call_unix64 () from /var/services/homes/adabral/ROP/mozilla-build/mozilla-release/obj-x86_64-unknown-linux-gnu/dist/bin/libxul.so
+0x00007fffe043a4df in ffi_call_unix64 () from /var/services/homes/adabral/ROP/mozilla-build/mozilla-release/obj-x86_64-unknown-linux-gnu/dist/bin/libxul.so
+0x00007fffe043a4e2 in ffi_call_unix64 () from /var/services/homes/adabral/ROP/mozilla-build/mozilla-release/obj-x86_64-unknown-linux-gnu/dist/bin/libxul.so
+0x00007fffe043a4e5 in ffi_call_unix64 () from /var/services/homes/adabral/ROP/mozilla-build/mozilla-release/obj-x86_64-unknown-linux-gnu/dist/bin/libxul.so
+0x00007fffe043a4e8 in ffi_call_unix64 () from /var/services/homes/adabral/ROP/mozilla-build/mozilla-release/obj-x86_64-unknown-linux-gnu/dist/bin/libxul.so
+0x00007fffe043a4eb in ffi_call_unix64 () from /var/services/homes/adabral/ROP/mozilla-build/mozilla-release/obj-x86_64-unknown-linux-gnu/dist/bin/libxul.so
+0x00007fffe043a4ee in ffi_call_unix64 () from /var/services/homes/adabral/ROP/mozilla-build/mozilla-release/obj-x86_64-unknown-linux-gnu/dist/bin/libxul.so
+0x00007fffe043a4f2 in ffi_call_unix64 () from /var/services/homes/adabral/ROP/mozilla-build/mozilla-release/obj-x86_64-unknown-linux-gnu/dist/bin/libxul.so
+0x00007fffe043a4f6 in ffi_call_unix64 () from /var/services/homes/adabral/ROP/mozilla-build/mozilla-release/obj-x86_64-unknown-linux-gnu/dist/bin/libxul.so
+0x00007fffe043a4fa in ffi_call_unix64 () from /var/services/homes/adabral/ROP/mozilla-build/mozilla-release/obj-x86_64-unknown-linux-gnu/dist/bin/libxul.so
+0x00007fffe043a4fe in ffi_call_unix64 () from /var/services/homes/adabral/ROP/mozilla-build/mozilla-release/obj-x86_64-unknown-linux-gnu/dist/bin/libxul.so
+0x00007fffe043a502 in ffi_call_unix64 () from /var/services/homes/adabral/ROP/mozilla-build/mozilla-release/obj-x86_64-unknown-linux-gnu/dist/bin/libxul.so
+0x00007fffe043a504 in ffi_call_unix64 () from /var/services/homes/adabral/ROP/mozilla-build/mozilla-release/obj-x86_64-unknown-linux-gnu/dist/bin/libxul.so
+0x00007fffe043a50a in ffi_call_unix64 () from /var/services/homes/adabral/ROP/mozilla-build/mozilla-release/obj-x86_64-unknown-linux-gnu/dist/bin/libxul.so
+0x00007fffe043a511 in ffi_call_unix64 () from /var/services/homes/adabral/ROP/mozilla-build/mozilla-release/obj-x86_64-unknown-linux-gnu/dist/bin/libxul.so
+write () at ../sysdeps/unix/syscall-template.S:81
+Run till exit from #0  write () at ../sysdeps/unix/syscall-template.S:81
+
+Breakpoint 6, 0x00007fffe043a514 in ffi_call_unix64 ()
+   from /var/services/homes/adabral/ROP/mozilla-build/mozilla-release/obj-x86_64-unknown-linux-gnu/dist/bin/libxul.so
+0x00007fffe043a518 in ffi_call_unix64 () from /var/services/homes/adabral/ROP/mozilla-build/mozilla-release/obj-x86_64-unknown-linux-gnu/dist/bin/libxul.so
+0x00007fffe043a51c in ffi_call_unix64 () from /var/services/homes/adabral/ROP/mozilla-build/mozilla-release/obj-x86_64-unknown-linux-gnu/dist/bin/libxul.so
+0x00007fffe043a520 in ffi_call_unix64 () from /var/services/homes/adabral/ROP/mozilla-build/mozilla-release/obj-x86_64-unknown-linux-gnu/dist/bin/libxul.so
+0x00007fffe043a524 in ffi_call_unix64 () from /var/services/homes/adabral/ROP/mozilla-build/mozilla-release/obj-x86_64-unknown-linux-gnu/dist/bin/libxul.so
+0x00007fffe043a528 in ffi_call_unix64 () from /var/services/homes/adabral/ROP/mozilla-build/mozilla-release/obj-x86_64-unknown-linux-gnu/dist/bin/libxul.so
+0x00007fffe043a52f in ffi_call_unix64 () from /var/services/homes/adabral/ROP/mozilla-build/mozilla-release/obj-x86_64-unknown-linux-gnu/dist/bin/libxul.so
+0x00007fffe043a533 in ffi_call_unix64 () from /var/services/homes/adabral/ROP/mozilla-build/mozilla-release/obj-x86_64-unknown-linux-gnu/dist/bin/libxul.so
+0x00007fffe043a536 in ffi_call_unix64 () from /var/services/homes/adabral/ROP/mozilla-build/mozilla-release/obj-x86_64-unknown-linux-gnu/dist/bin/libxul.so
+0x00007fffe043a5a4 in ffi_call_unix64 () from /var/services/homes/adabral/ROP/mozilla-build/mozilla-release/obj-x86_64-unknown-linux-gnu/dist/bin/libxul.so
+0x00007fffe043a5a7 in ffi_call_unix64 () from /var/services/homes/adabral/ROP/mozilla-build/mozilla-release/obj-x86_64-unknown-linux-gnu/dist/bin/libxul.so
+
+Breakpoint 5, 0x00007fffe04390c0 in ffi_call ()
+   from /var/services/homes/adabral/ROP/mozilla-build/mozilla-release/obj-x86_64-unknown-linux-gnu/dist/bin/libxul.so
+0x00007fffe04390c4 in ffi_call () from /var/services/homes/adabral/ROP/mozilla-build/mozilla-release/obj-x86_64-unknown-linux-gnu/dist/bin/libxul.so
+0x00007fffe04390cd in ffi_call () from /var/services/homes/adabral/ROP/mozilla-build/mozilla-release/obj-x86_64-unknown-linux-gnu/dist/bin/libxul.so
+$39 = 0x7fffb10fa890
+$40 = 0x7fffb10fa970
+$41 = 0x7fffb10fa948
+0x7fffb10fa948:	0x00007fffb1495198	0x00007fffa0e38c68
+0x7fffb10fa958:	0x00007fffab12c300	0xfff8800000000013
+0x7fffb10fa968:	0x00007fffb1495180
+0x00007fffe04390d3 in ffi_call () from /var/services/homes/adabral/ROP/mozilla-build/mozilla-release/obj-x86_64-unknown-linux-gnu/dist/bin/libxul.so
+0x00007fffe04390d7 in ffi_call () from /var/services/homes/adabral/ROP/mozilla-build/mozilla-release/obj-x86_64-unknown-linux-gnu/dist/bin/libxul.so
+Continuing.
+
+Breakpoint 1, 0x00007fffe0438f44 in ffi_call ()
+   from /var/services/homes/adabral/ROP/mozilla-build/mozilla-release/obj-x86_64-unknown-linux-gnu/dist/bin/libxul.so
+$42 = 0x7fffb10fb360
+0x7fffb10fb360:	0x00007fffb149f310	0x00007fffe0107f32
+0x7fffb10fb370:	0x00007fffb1495198	0x00007fffb10fb350
+0x7fffb10fb380:	0x00007fffb10fb510
+Continuing.
+
+Breakpoint 2, 0x00007fffe043a4c8 in ffi_call_unix64 ()
+   from /var/services/homes/adabral/ROP/mozilla-build/mozilla-release/obj-x86_64-unknown-linux-gnu/dist/bin/libxul.so
+0x00007fffe043a4cc in ffi_call_unix64 () from /var/services/homes/adabral/ROP/mozilla-build/mozilla-release/obj-x86_64-unknown-linux-gnu/dist/bin/libxul.so
+0x00007fffe043a4d0 in ffi_call_unix64 () from /var/services/homes/adabral/ROP/mozilla-build/mozilla-release/obj-x86_64-unknown-linux-gnu/dist/bin/libxul.so
+0x00007fffe043a4d3 in ffi_call_unix64 () from /var/services/homes/adabral/ROP/mozilla-build/mozilla-release/obj-x86_64-unknown-linux-gnu/dist/bin/libxul.so
+0x00007fffe043a4d7 in ffi_call_unix64 () from /var/services/homes/adabral/ROP/mozilla-build/mozilla-release/obj-x86_64-unknown-linux-gnu/dist/bin/libxul.so
+0x00007fffe043a4db in ffi_call_unix64 () from /var/services/homes/adabral/ROP/mozilla-build/mozilla-release/obj-x86_64-unknown-linux-gnu/dist/bin/libxul.so
+0x00007fffe043a4df in ffi_call_unix64 () from /var/services/homes/adabral/ROP/mozilla-build/mozilla-release/obj-x86_64-unknown-linux-gnu/dist/bin/libxul.so
+0x00007fffe043a4e2 in ffi_call_unix64 () from /var/services/homes/adabral/ROP/mozilla-build/mozilla-release/obj-x86_64-unknown-linux-gnu/dist/bin/libxul.so
+0x00007fffe043a4e5 in ffi_call_unix64 () from /var/services/homes/adabral/ROP/mozilla-build/mozilla-release/obj-x86_64-unknown-linux-gnu/dist/bin/libxul.so
+0x00007fffe043a4e8 in ffi_call_unix64 () from /var/services/homes/adabral/ROP/mozilla-build/mozilla-release/obj-x86_64-unknown-linux-gnu/dist/bin/libxul.so
+0x00007fffe043a4eb in ffi_call_unix64 () from /var/services/homes/adabral/ROP/mozilla-build/mozilla-release/obj-x86_64-unknown-linux-gnu/dist/bin/libxul.so
+0x00007fffe043a4ee in ffi_call_unix64 () from /var/services/homes/adabral/ROP/mozilla-build/mozilla-release/obj-x86_64-unknown-linux-gnu/dist/bin/libxul.so
+0x00007fffe043a4f2 in ffi_call_unix64 () from /var/services/homes/adabral/ROP/mozilla-build/mozilla-release/obj-x86_64-unknown-linux-gnu/dist/bin/libxul.so
+0x00007fffe043a4f6 in ffi_call_unix64 () from /var/services/homes/adabral/ROP/mozilla-build/mozilla-release/obj-x86_64-unknown-linux-gnu/dist/bin/libxul.so
+0x00007fffe043a4fa in ffi_call_unix64 () from /var/services/homes/adabral/ROP/mozilla-build/mozilla-release/obj-x86_64-unknown-linux-gnu/dist/bin/libxul.so
+0x00007fffe043a4fe in ffi_call_unix64 () from /var/services/homes/adabral/ROP/mozilla-build/mozilla-release/obj-x86_64-unknown-linux-gnu/dist/bin/libxul.so
+0x00007fffe043a502 in ffi_call_unix64 () from /var/services/homes/adabral/ROP/mozilla-build/mozilla-release/obj-x86_64-unknown-linux-gnu/dist/bin/libxul.so
+0x00007fffe043a504 in ffi_call_unix64 () from /var/services/homes/adabral/ROP/mozilla-build/mozilla-release/obj-x86_64-unknown-linux-gnu/dist/bin/libxul.so
+0x00007fffe043a50a in ffi_call_unix64 () from /var/services/homes/adabral/ROP/mozilla-build/mozilla-release/obj-x86_64-unknown-linux-gnu/dist/bin/libxul.so
+0x00007fffe043a511 in ffi_call_unix64 () from /var/services/homes/adabral/ROP/mozilla-build/mozilla-release/obj-x86_64-unknown-linux-gnu/dist/bin/libxul.so
+close () at ../sysdeps/unix/syscall-template.S:81
+Run till exit from #0  close () at ../sysdeps/unix/syscall-template.S:81
+
+Breakpoint 6, 0x00007fffe043a514 in ffi_call_unix64 ()
+   from /var/services/homes/adabral/ROP/mozilla-build/mozilla-release/obj-x86_64-unknown-linux-gnu/dist/bin/libxul.so
+0x00007fffe043a518 in ffi_call_unix64 () from /var/services/homes/adabral/ROP/mozilla-build/mozilla-release/obj-x86_64-unknown-linux-gnu/dist/bin/libxul.so
+0x00007fffe043a51c in ffi_call_unix64 () from /var/services/homes/adabral/ROP/mozilla-build/mozilla-release/obj-x86_64-unknown-linux-gnu/dist/bin/libxul.so
+0x00007fffe043a520 in ffi_call_unix64 () from /var/services/homes/adabral/ROP/mozilla-build/mozilla-release/obj-x86_64-unknown-linux-gnu/dist/bin/libxul.so
+0x00007fffe043a524 in ffi_call_unix64 () from /var/services/homes/adabral/ROP/mozilla-build/mozilla-release/obj-x86_64-unknown-linux-gnu/dist/bin/libxul.so
+0x00007fffe043a528 in ffi_call_unix64 () from /var/services/homes/adabral/ROP/mozilla-build/mozilla-release/obj-x86_64-unknown-linux-gnu/dist/bin/libxul.so
+0x00007fffe043a52f in ffi_call_unix64 () from /var/services/homes/adabral/ROP/mozilla-build/mozilla-release/obj-x86_64-unknown-linux-gnu/dist/bin/libxul.so
+0x00007fffe043a533 in ffi_call_unix64 () from /var/services/homes/adabral/ROP/mozilla-build/mozilla-release/obj-x86_64-unknown-linux-gnu/dist/bin/libxul.so
+0x00007fffe043a536 in ffi_call_unix64 () from /var/services/homes/adabral/ROP/mozilla-build/mozilla-release/obj-x86_64-unknown-linux-gnu/dist/bin/libxul.so
+0x00007fffe043a59e in ffi_call_unix64 () from /var/services/homes/adabral/ROP/mozilla-build/mozilla-release/obj-x86_64-unknown-linux-gnu/dist/bin/libxul.so
+0x00007fffe043a5a0 in ffi_call_unix64 () from /var/services/homes/adabral/ROP/mozilla-build/mozilla-release/obj-x86_64-unknown-linux-gnu/dist/bin/libxul.so
+0x00007fffe043a5a3 in ffi_call_unix64 () from /var/services/homes/adabral/ROP/mozilla-build/mozilla-release/obj-x86_64-unknown-linux-gnu/dist/bin/libxul.so
+$43 = 0x7fffb10fb278
+
+Breakpoint 5, 0x00007fffe04390c0 in ffi_call ()
+   from /var/services/homes/adabral/ROP/mozilla-build/mozilla-release/obj-x86_64-unknown-linux-gnu/dist/bin/libxul.so
+0x00007fffe04390c4 in ffi_call () from /var/services/homes/adabral/ROP/mozilla-build/mozilla-release/obj-x86_64-unknown-linux-gnu/dist/bin/libxul.so
+0x00007fffe04390cd in ffi_call () from /var/services/homes/adabral/ROP/mozilla-build/mozilla-release/obj-x86_64-unknown-linux-gnu/dist/bin/libxul.so
+$44 = 0x7fffb10fb280
+0x00007fffe04390d3 in ffi_call () from /var/services/homes/adabral/ROP/mozilla-build/mozilla-release/obj-x86_64-unknown-linux-gnu/dist/bin/libxul.so
+0x00007fffe04390d7 in ffi_call () from /var/services/homes/adabral/ROP/mozilla-build/mozilla-release/obj-x86_64-unknown-linux-gnu/dist/bin/libxul.so
+A syntax error in expression, near `%rsp'.
+$45 = 0x7fffb10fb338
+0x7fffb10fb338:	0x00007fffb1495198	0x00007fffa0e38c78
+0x7fffb10fb348:	0x00007fffaba3f880	0xfff880000000000a
+0x7fffb10fb358:	0x00007fffb1495180
+0x00007fffe04390d8 in ffi_call () from /var/services/homes/adabral/ROP/mozilla-build/mozilla-release/obj-x86_64-unknown-linux-gnu/dist/bin/libxul.so
+0x00007fffe04390da in ffi_call () from /var/services/homes/adabral/ROP/mozilla-build/mozilla-release/obj-x86_64-unknown-linux-gnu/dist/bin/libxul.so
+0x00007fffe04390dc in ffi_call () from /var/services/homes/adabral/ROP/mozilla-build/mozilla-release/obj-x86_64-unknown-linux-gnu/dist/bin/libxul.so
+0x00007fffe04390de in ffi_call () from /var/services/homes/adabral/ROP/mozilla-build/mozilla-release/obj-x86_64-unknown-linux-gnu/dist/bin/libxul.so
+0x00007fffe04390e0 in ffi_call () from /var/services/homes/adabral/ROP/mozilla-build/mozilla-release/obj-x86_64-unknown-linux-gnu/dist/bin/libxul.so
+0x00007fffe04390e1 in ffi_call () from /var/services/homes/adabral/ROP/mozilla-build/mozilla-release/obj-x86_64-unknown-linux-gnu/dist/bin/libxul.so
+$46 = 0x7fffb149f310
+$47 = 0x7fffb10fb368
+0x7fffb10fb368:	0x00007fffe0107f32	0x00007fffb1495198
+0x7fffb10fb378:	0x00007fffb10fb350	0x00007fffb10fb510
+0x7fffb10fb388:	0x00007fffb10ff630
+js::ctypes::FunctionType::Call (cx=cx@entry=0x7fffb1495180, argc=<optimized out>, vp=0x7fffb149f310)
+    at /var/services/homes/adabral/ROP/mozilla-build/mozilla-release/js/src/ctypes/CTypes.cpp:5856
+#0  js::ctypes::FunctionType::Call (cx=cx@entry=0x7fffb1495180, argc=<optimized out>, vp=0x7fffb149f310)
+    at /var/services/homes/adabral/ROP/mozilla-build/mozilla-release/js/src/ctypes/CTypes.cpp:5856
+#1  0x00007fffe03b6260 in CallJSNative (args=..., native=0x7fffe0107970 <js::ctypes::FunctionType::Call(JSContext*, unsigned int, jsval*)>, cx=0x7fffb1495180)
+    at /var/services/homes/adabral/ROP/mozilla-build/mozilla-release/js/src/jscntxtinlines.h:239
+#2  js::Invoke (cx=0x7fffb1495180, args=..., construct=<optimized out>)
+    at /var/services/homes/adabral/ROP/mozilla-build/mozilla-release/js/src/vm/Interpreter.cpp:448
+#3  0x00007fffe03aac6a in Interpret (cx=0x7fffb1495180, state=...)
+    at /var/services/homes/adabral/ROP/mozilla-build/mozilla-release/js/src/vm/Interpreter.cpp:2566
+#4  0x00007fffe03b5d81 in js::RunScript (cx=cx@entry=0x7fffb1495180, state=...)
+    at /var/services/homes/adabral/ROP/mozilla-build/mozilla-release/js/src/vm/Interpreter.cpp:402
+#5  0x00007fffe03b5fdb in js::Invoke (cx=cx@entry=0x7fffb1495180, args=..., construct=construct@entry=js::NO_CONSTRUCT)
+    at /var/services/homes/adabral/ROP/mozilla-build/mozilla-release/js/src/vm/Interpreter.cpp:474
+#6  0x00007fffe029f3ec in js_fun_apply (cx=0x7fffb1495180, argc=<optimized out>, vp=0x7fffb149f0d0)
+    at /var/services/homes/adabral/ROP/mozilla-build/mozilla-release/js/src/jsfun.cpp:1139
+#7  0x00007fffe03b6128 in CallJSNative (args=..., native=0x7fffe029f050 <js_fun_apply(JSContext*, unsigned int, JS::Value*)>, cx=0x7fffb1495180)
+    at /var/services/homes/adabral/ROP/mozilla-build/mozilla-release/js/src/jscntxtinlines.h:239
+#8  js::Invoke (cx=0x7fffb1495180, args=..., construct=<optimized out>)
+    at /var/services/homes/adabral/ROP/mozilla-build/mozilla-release/js/src/vm/Interpreter.cpp:455
+#9  0x00007fffe03aac6a in Interpret (cx=0x7fffb1495180, state=...)
+    at /var/services/homes/adabral/ROP/mozilla-build/mozilla-release/js/src/vm/Interpreter.cpp:2566
+#10 0x00007fffe03b5d81 in js::RunScript (cx=cx@entry=0x7fffb1495180, state=...)
+    at /var/services/homes/adabral/ROP/mozilla-build/mozilla-release/js/src/vm/Interpreter.cpp:402
+#11 0x00007fffe03b5fdb in js::Invoke (cx=cx@entry=0x7fffb1495180, args=..., construct=construct@entry=js::NO_CONSTRUCT)
+    at /var/services/homes/adabral/ROP/mozilla-build/mozilla-release/js/src/vm/Interpreter.cpp:474
+#12 0x00007fffe03b65d1 in js::Invoke (cx=cx@entry=0x7fffb1495180, thisv=..., fval=..., argc=1, argv=<optimized out>, rval=...)
+    at /var/services/homes/adabral/ROP/mozilla-build/mozilla-release/js/src/vm/Interpreter.cpp:511
+#13 0x00007fffe026e11a in JS::Call (cx=cx@entry=0x7fffb1495180, thisv=..., thisv@entry=
+    $jsval((JSObject *) 0x7fffb0303060 [object DedicatedWorkerGlobalScope] delegate), fval=..., 
+    fval@entry=Python Exception <class 'TypeError'> 'gdb.Value' object cannot be interpreted as an integer: 
+$jsval((JSObject *) 0x7fffb03230c0 [object Function]), args=..., rval=..., rval@entry=JSVAL_VOID)
+    at /var/services/homes/adabral/ROP/mozilla-build/mozilla-release/js/src/jsapi.cpp:5215
+#14 0x00007fffdf056594 in mozilla::dom::EventHandlerNonNull::Call (this=this@entry=0x7fffab1259d0, cx=0x7fffb1495180, aThisVal=..., 
+    aThisVal@entry=$jsval((JSObject *) 0x7fffb0303060 [object DedicatedWorkerGlobalScope] delegate), event=..., aRetVal=..., aRetVal@entry=JSVAL_VOID, aRv=...)
+    at /var/services/homes/adabral/ROP/mozilla-build/mozilla-release/obj-x86_64-unknown-linux-gnu/dom/bindings/EventHandlerBinding.cpp:36
+#15 0x00007fffdf49f40e in Call<nsISupports*> (aExceptionHandling=mozilla::dom::CallbackObject::eReportExceptions, aRv=..., aRetVal=..., event=..., 
+    thisObjPtr=@0x7fffab125aa0: 0x7fffb189aa90, this=0x7fffab1259d0) at ../../dist/include/mozilla/dom/EventHandlerBinding.h:62
+#16 mozilla::JSEventHandler::HandleEvent (this=0x7fffab125a90, aEvent=<optimized out>)
+    at /var/services/homes/adabral/ROP/mozilla-build/mozilla-release/dom/events/JSEventHandler.cpp:215
+#17 0x00007fffdf499d70 in mozilla::EventListenerManager::HandleEventSubType (this=this@entry=0x7fffae275550, aListener=<optimized out>, 
+    aListener@entry=0x7fffae275580, aDOMEvent=0x7fff9f86fd80, aCurrentTarget=aCurrentTarget@entry=0x7fffb189aa90)
+    at /var/services/homes/adabral/ROP/mozilla-build/mozilla-release/dom/events/EventListenerManager.cpp:936
+#18 0x00007fffdf499fe0 in mozilla::EventListenerManager::HandleEventInternal (this=0x7fffae275550, aPresContext=<optimized out>, aEvent=0x7fffae5ce270, 
+    aDOMEvent=0x7fffb10fe6b8, aCurrentTarget=0x7fffb189aa90, aEventStatus=<optimized out>)
+    at /var/services/homes/adabral/ROP/mozilla-build/mozilla-release/dom/events/EventListenerManager.cpp:997
+#19 0x00007fffdf496736 in mozilla::EventTargetChainItem::HandleEventTargetChain (aChain=..., aVisitor=..., aCallback=aCallback@entry=0x0, aCd=...)
+    at /var/services/homes/adabral/ROP/mozilla-build/mozilla-release/dom/events/EventDispatcher.cpp:288
+#20 0x00007fffdf496f84 in mozilla::EventDispatcher::Dispatch (aTarget=aTarget@entry=0x7fffb189aa90, aPresContext=aPresContext@entry=0x0, aEvent=0x7fffae5ce270, 
+    aDOMEvent=<optimized out>, aEventStatus=0x7fffb10fe7f8, aCallback=<optimized out>, aTargets=0x0)
+    at /var/services/homes/adabral/ROP/mozilla-build/mozilla-release/dom/events/EventDispatcher.cpp:601
+#21 0x00007fffdf497284 in mozilla::EventDispatcher::DispatchDOMEvent (aTarget=0x7fffb189aa90, aEvent=<optimized out>, aDOMEvent=0x7fff9f86fd80, 
+    aPresContext=0x0, aEventStatus=0x7fffb10fe7f8) at /var/services/homes/adabral/ROP/mozilla-build/mozilla-release/dom/events/EventDispatcher.cpp:668
+#22 0x00007fffdf533251 in (anonymous namespace)::MessageEventRunnable::DispatchDOMEvent (this=this@entry=0x7fffb189ab70, aCx=aCx@entry=0x7fffb1495180, aTarget=
+    0x7fffb189aa90, aIsMainThread=<optimized out>, aWorkerPrivate=0x7fffb185ec00)
+    at /var/services/homes/adabral/ROP/mozilla-build/mozilla-release/dom/workers/WorkerPrivate.cpp:1018
+#23 0x00007fffdf535034 in (anonymous namespace)::MessageEventRunnable::WorkerRun (this=0x7fffb189ab70, aCx=0x7fffb1495180, aWorkerPrivate=0x7fffb185ec00)
+    at /var/services/homes/adabral/ROP/mozilla-build/mozilla-release/dom/workers/WorkerPrivate.cpp:1067
+#24 0x00007fffdf53a4b3 in mozilla::dom::workers::WorkerRunnable::Run (this=0x7fffb189ab70)
+    at /var/services/homes/adabral/ROP/mozilla-build/mozilla-release/dom/workers/WorkerRunnable.cpp:312
+#25 0x00007fffde98f450 in nsThread::ProcessNextEvent (this=0x7fffb1821b00, aMayWait=<optimized out>, aResult=0x7fffb10fe9df)
+    at /var/services/homes/adabral/ROP/mozilla-build/mozilla-release/xpcom/threads/nsThread.cpp:766
+#26 0x00007fffde94aa21 in NS_ProcessNextEvent (thread=<optimized out>, mayWait=mayWait@entry=false)
+    at /var/services/homes/adabral/ROP/mozilla-build/mozilla-release/xpcom/glue/nsThreadUtils.cpp:263
+#27 0x00007fffdf534c71 in mozilla::dom::workers::WorkerPrivate::DoRunLoop (this=0x7fffb185ec00, aCx=aCx@entry=0x7fffb1495180)
+    at /var/services/homes/adabral/ROP/mozilla-build/mozilla-release/dom/workers/WorkerPrivate.cpp:4060
+#28 0x00007fffdf525c98 in (anonymous namespace)::WorkerThreadPrimaryRunnable::Run (this=0x7fffb189cf40)
+    at /var/services/homes/adabral/ROP/mozilla-build/mozilla-release/dom/workers/RuntimeService.cpp:2598
+#29 0x00007fffde98f450 in nsThread::ProcessNextEvent (this=0x7fffb1821b00, aMayWait=<optimized out>, aResult=0x7fffb10fedcf)
+    at /var/services/homes/adabral/ROP/mozilla-build/mozilla-release/xpcom/threads/nsThread.cpp:766
+#30 0x00007fffde94aa21 in NS_ProcessNextEvent (thread=<optimized out>, mayWait=mayWait@entry=true)
+    at /var/services/homes/adabral/ROP/mozilla-build/mozilla-release/xpcom/glue/nsThreadUtils.cpp:263
+#31 0x00007fffdeb68ac7 in mozilla::ipc::MessagePumpForNonMainThreads::Run (this=0x7fffb1469540, aDelegate=0x7fffb1c143e0)
+    at /var/services/homes/adabral/ROP/mozilla-build/mozilla-release/ipc/glue/MessagePump.cpp:336
+#32 0x00007fffdeb4ea1d in RunHandler (this=0x7fffb1c143e0)
+    at /var/services/homes/adabral/ROP/mozilla-build/mozilla-release/ipc/chromium/src/base/message_loop.cc:222
+#33 MessageLoop::Run (this=this@entry=0x7fffb1c143e0) at /var/services/homes/adabral/ROP/mozilla-build/mozilla-release/ipc/chromium/src/base/message_loop.cc:196
+#34 0x00007fffde98fdab in nsThread::ThreadFunc (aArg=0x7fffb1821b00)
+    at /var/services/homes/adabral/ROP/mozilla-build/mozilla-release/xpcom/threads/nsThread.cpp:346
+#35 0x00007fffe36eb12c in _pt_root (arg=0x7fffb86c9aa0) at /var/services/homes/adabral/ROP/mozilla-build/mozilla-release/nsprpub/pr/src/pthreads/ptthread.c:212
+#36 0x00007fffe4b31182 in start_thread (arg=0x7fffb10ff700) at pthread_create.c:312
+#37 0x00007fffe404ffbd in clone () at ../sysdeps/unix/sysv/linux/x86_64/clone.S:111
+DoEndCallback (this=<optimized out>) at /var/services/homes/adabral/ROP/mozilla-build/mozilla-release/js/src/jsfriendapi.h:2154
+js::ctypes::FunctionType::Call (cx=cx@entry=0x7fffb1495180, argc=<optimized out>, vp=0x7fffb149f310)
+    at /var/services/homes/adabral/ROP/mozilla-build/mozilla-release/js/src/ctypes/CTypes.cpp:5856
+DoEndCallback (this=0x7fffb10fb410) at /var/services/homes/adabral/ROP/mozilla-build/mozilla-release/js/src/jsfriendapi.h:2154
+(anonymous namespace)::CTypesActivityCallback (aCx=0x7fffb1495180, aType=js::CTYPES_CALL_END)
+    at /var/services/homes/adabral/ROP/mozilla-build/mozilla-release/dom/workers/RuntimeService.cpp:686
+Continuing.
+
+Breakpoint 1, 0x00007fffe0438f44 in ffi_call ()
+   from /var/services/homes/adabral/ROP/mozilla-build/mozilla-release/obj-x86_64-unknown-linux-gnu/dist/bin/libxul.so
+0x00007fffe0438f46 in ffi_call () from /var/services/homes/adabral/ROP/mozilla-build/mozilla-release/obj-x86_64-unknown-linux-gnu/dist/bin/libxul.so
+0x00007fffe0438f48 in ffi_call () from /var/services/homes/adabral/ROP/mozilla-build/mozilla-release/obj-x86_64-unknown-linux-gnu/dist/bin/libxul.so
+0x00007fffe0438f4a in ffi_call () from /var/services/homes/adabral/ROP/mozilla-build/mozilla-release/obj-x86_64-unknown-linux-gnu/dist/bin/libxul.so
+0x00007fffe0438f4c in ffi_call () from /var/services/homes/adabral/ROP/mozilla-build/mozilla-release/obj-x86_64-unknown-linux-gnu/dist/bin/libxul.so
+0x00007fffe0438f4d in ffi_call () from /var/services/homes/adabral/ROP/mozilla-build/mozilla-release/obj-x86_64-unknown-linux-gnu/dist/bin/libxul.so
+0x00007fffe0438f54 in ffi_call () from /var/services/homes/adabral/ROP/mozilla-build/mozilla-release/obj-x86_64-unknown-linux-gnu/dist/bin/libxul.so
+0x00007fffe0438f58 in ffi_call () from /var/services/homes/adabral/ROP/mozilla-build/mozilla-release/obj-x86_64-unknown-linux-gnu/dist/bin/libxul.so
+0x00007fffe0438f61 in ffi_call () from /var/services/homes/adabral/ROP/mozilla-build/mozilla-release/obj-x86_64-unknown-linux-gnu/dist/bin/libxul.so
+0x00007fffe0438f65 in ffi_call () from /var/services/homes/adabral/ROP/mozilla-build/mozilla-release/obj-x86_64-unknown-linux-gnu/dist/bin/libxul.so
+0x00007fffe0438f67 in ffi_call () from /var/services/homes/adabral/ROP/mozilla-build/mozilla-release/obj-x86_64-unknown-linux-gnu/dist/bin/libxul.so
+0x00007fffe0438f6b in ffi_call () from /var/services/homes/adabral/ROP/mozilla-build/mozilla-release/obj-x86_64-unknown-linux-gnu/dist/bin/libxul.so
+0x00007fffe0438f72 in ffi_call () from /var/services/homes/adabral/ROP/mozilla-build/mozilla-release/obj-x86_64-unknown-linux-gnu/dist/bin/libxul.so
+0x00007fffe0438f79 in ffi_call () from /var/services/homes/adabral/ROP/mozilla-build/mozilla-release/obj-x86_64-unknown-linux-gnu/dist/bin/libxul.so
+0x00007fffe0438f7d in ffi_call () from /var/services/homes/adabral/ROP/mozilla-build/mozilla-release/obj-x86_64-unknown-linux-gnu/dist/bin/libxul.so
+0x00007fffe0438f82 in ffi_call () from /var/services/homes/adabral/ROP/mozilla-build/mozilla-release/obj-x86_64-unknown-linux-gnu/dist/bin/libxul.so
+0x00007fffe0438f88 in ffi_call () from /var/services/homes/adabral/ROP/mozilla-build/mozilla-release/obj-x86_64-unknown-linux-gnu/dist/bin/libxul.so
+0x00007fffe0438f92 in ffi_call () from /var/services/homes/adabral/ROP/mozilla-build/mozilla-release/obj-x86_64-unknown-linux-gnu/dist/bin/libxul.so
+0x00007fffe0438f96 in ffi_call () from /var/services/homes/adabral/ROP/mozilla-build/mozilla-release/obj-x86_64-unknown-linux-gnu/dist/bin/libxul.so
+0x00007fffe0438f99 in ffi_call () from /var/services/homes/adabral/ROP/mozilla-build/mozilla-release/obj-x86_64-unknown-linux-gnu/dist/bin/libxul.so
+0x00007fffe0438fa0 in ffi_call () from /var/services/homes/adabral/ROP/mozilla-build/mozilla-release/obj-x86_64-unknown-linux-gnu/dist/bin/libxul.so
+0x00007fffe0438fa4 in ffi_call () from /var/services/homes/adabral/ROP/mozilla-build/mozilla-release/obj-x86_64-unknown-linux-gnu/dist/bin/libxul.so
+0x00007fffe0438fa8 in ffi_call () from /var/services/homes/adabral/ROP/mozilla-build/mozilla-release/obj-x86_64-unknown-linux-gnu/dist/bin/libxul.so
+0x00007fffe0438fab in ffi_call () from /var/services/homes/adabral/ROP/mozilla-build/mozilla-release/obj-x86_64-unknown-linux-gnu/dist/bin/libxul.so
+0x00007fffe0438fb0 in ffi_call () from /var/services/homes/adabral/ROP/mozilla-build/mozilla-release/obj-x86_64-unknown-linux-gnu/dist/bin/libxul.so
+0x00007fffe0438fb4 in ffi_call () from /var/services/homes/adabral/ROP/mozilla-build/mozilla-release/obj-x86_64-unknown-linux-gnu/dist/bin/libxul.so
+0x00007fffe0438fb9 in ffi_call () from /var/services/homes/adabral/ROP/mozilla-build/mozilla-release/obj-x86_64-unknown-linux-gnu/dist/bin/libxul.so
+0x00007fffe0438fbd in ffi_call () from /var/services/homes/adabral/ROP/mozilla-build/mozilla-release/obj-x86_64-unknown-linux-gnu/dist/bin/libxul.so
+0x00007fffe0438fc4 in ffi_call () from /var/services/homes/adabral/ROP/mozilla-build/mozilla-release/obj-x86_64-unknown-linux-gnu/dist/bin/libxul.so
+0x00007fffe0438fc8 in ffi_call () from /var/services/homes/adabral/ROP/mozilla-build/mozilla-release/obj-x86_64-unknown-linux-gnu/dist/bin/libxul.so
+0x00007fffe0438fcb in ffi_call () from /var/services/homes/adabral/ROP/mozilla-build/mozilla-release/obj-x86_64-unknown-linux-gnu/dist/bin/libxul.so
+0x00007fffe0438fcf in ffi_call () from /var/services/homes/adabral/ROP/mozilla-build/mozilla-release/obj-x86_64-unknown-linux-gnu/dist/bin/libxul.so
+0x00007fffe0438fd1 in ffi_call () from /var/services/homes/adabral/ROP/mozilla-build/mozilla-release/obj-x86_64-unknown-linux-gnu/dist/bin/libxul.so
+0x00007fffe0438fd7 in ffi_call () from /var/services/homes/adabral/ROP/mozilla-build/mozilla-release/obj-x86_64-unknown-linux-gnu/dist/bin/libxul.so
+0x00007fffe0438fda in ffi_call () from /var/services/homes/adabral/ROP/mozilla-build/mozilla-release/obj-x86_64-unknown-linux-gnu/dist/bin/libxul.so
+0x00007fffe0438fdd in ffi_call () from /var/services/homes/adabral/ROP/mozilla-build/mozilla-release/obj-x86_64-unknown-linux-gnu/dist/bin/libxul.so
+0x00007fffe0438fe0 in ffi_call () from /var/services/homes/adabral/ROP/mozilla-build/mozilla-release/obj-x86_64-unknown-linux-gnu/dist/bin/libxul.so
+0x00007fffe0438fe8 in ffi_call () from /var/services/homes/adabral/ROP/mozilla-build/mozilla-release/obj-x86_64-unknown-linux-gnu/dist/bin/libxul.so
+0x00007fffe0438ff2 in ffi_call () from /var/services/homes/adabral/ROP/mozilla-build/mozilla-release/obj-x86_64-unknown-linux-gnu/dist/bin/libxul.so
+0x00007fffe0438ff6 in ffi_call () from /var/services/homes/adabral/ROP/mozilla-build/mozilla-release/obj-x86_64-unknown-linux-gnu/dist/bin/libxul.so
+0x00007fffe0438ffa in ffi_call () from /var/services/homes/adabral/ROP/mozilla-build/mozilla-release/obj-x86_64-unknown-linux-gnu/dist/bin/libxul.so
+0x00007fffe0439001 in ffi_call () from /var/services/homes/adabral/ROP/mozilla-build/mozilla-release/obj-x86_64-unknown-linux-gnu/dist/bin/libxul.so
+0x00007fffe0439005 in ffi_call () from /var/services/homes/adabral/ROP/mozilla-build/mozilla-release/obj-x86_64-unknown-linux-gnu/dist/bin/libxul.so
+0x00007fffe043900a in ffi_call () from /var/services/homes/adabral/ROP/mozilla-build/mozilla-release/obj-x86_64-unknown-linux-gnu/dist/bin/libxul.so
+0x00007fffe043900d in ffi_call () from /var/services/homes/adabral/ROP/mozilla-build/mozilla-release/obj-x86_64-unknown-linux-gnu/dist/bin/libxul.so
+0x00007fffe043900f in ffi_call () from /var/services/homes/adabral/ROP/mozilla-build/mozilla-release/obj-x86_64-unknown-linux-gnu/dist/bin/libxul.so
+0x00007fffe0439013 in ffi_call () from /var/services/homes/adabral/ROP/mozilla-build/mozilla-release/obj-x86_64-unknown-linux-gnu/dist/bin/libxul.so
+0x00007fffe043901a in ffi_call () from /var/services/homes/adabral/ROP/mozilla-build/mozilla-release/obj-x86_64-unknown-linux-gnu/dist/bin/libxul.so
+0x00007fffe043901e in ffi_call () from /var/services/homes/adabral/ROP/mozilla-build/mozilla-release/obj-x86_64-unknown-linux-gnu/dist/bin/libxul.so
+0x00007fffe0439021 in ffi_call () from /var/services/homes/adabral/ROP/mozilla-build/mozilla-release/obj-x86_64-unknown-linux-gnu/dist/bin/libxul.so
+0x00007fffe0439210 in ffi_call () from /var/services/homes/adabral/ROP/mozilla-build/mozilla-release/obj-x86_64-unknown-linux-gnu/dist/bin/libxul.so
+0x00007fffe0439214 in ffi_call () from /var/services/homes/adabral/ROP/mozilla-build/mozilla-release/obj-x86_64-unknown-linux-gnu/dist/bin/libxul.so
+0x00007fffe043921a in ffi_call () from /var/services/homes/adabral/ROP/mozilla-build/mozilla-release/obj-x86_64-unknown-linux-gnu/dist/bin/libxul.so
+0x00007fffe043921e in ffi_call () from /var/services/homes/adabral/ROP/mozilla-build/mozilla-release/obj-x86_64-unknown-linux-gnu/dist/bin/libxul.so
+0x00007fffe04393a0 in ffi_call () from /var/services/homes/adabral/ROP/mozilla-build/mozilla-release/obj-x86_64-unknown-linux-gnu/dist/bin/libxul.so
+0x00007fffe04393a7 in ffi_call () from /var/services/homes/adabral/ROP/mozilla-build/mozilla-release/obj-x86_64-unknown-linux-gnu/dist/bin/libxul.so
+0x00007fffe04393ad in ffi_call () from /var/services/homes/adabral/ROP/mozilla-build/mozilla-release/obj-x86_64-unknown-linux-gnu/dist/bin/libxul.so
+0x00007fffe043925c in ffi_call () from /var/services/homes/adabral/ROP/mozilla-build/mozilla-release/obj-x86_64-unknown-linux-gnu/dist/bin/libxul.so
+0x00007fffe043925e in ffi_call () from /var/services/homes/adabral/ROP/mozilla-build/mozilla-release/obj-x86_64-unknown-linux-gnu/dist/bin/libxul.so
+0x00007fffe0439260 in ffi_call () from /var/services/homes/adabral/ROP/mozilla-build/mozilla-release/obj-x86_64-unknown-linux-gnu/dist/bin/libxul.so
+0x00007fffe0439263 in ffi_call () from /var/services/homes/adabral/ROP/mozilla-build/mozilla-release/obj-x86_64-unknown-linux-gnu/dist/bin/libxul.so
+0x00007fffe0439268 in ffi_call () from /var/services/homes/adabral/ROP/mozilla-build/mozilla-release/obj-x86_64-unknown-linux-gnu/dist/bin/libxul.so
+0x00007fffe043926c in ffi_call () from /var/services/homes/adabral/ROP/mozilla-build/mozilla-release/obj-x86_64-unknown-linux-gnu/dist/bin/libxul.so
+0x00007fffe0439271 in ffi_call () from /var/services/homes/adabral/ROP/mozilla-build/mozilla-release/obj-x86_64-unknown-linux-gnu/dist/bin/libxul.so
+0x00007fffe0439273 in ffi_call () from /var/services/homes/adabral/ROP/mozilla-build/mozilla-release/obj-x86_64-unknown-linux-gnu/dist/bin/libxul.so
+0x00007fffe0439277 in ffi_call () from /var/services/homes/adabral/ROP/mozilla-build/mozilla-release/obj-x86_64-unknown-linux-gnu/dist/bin/libxul.so
+0x00007fffe043927e in ffi_call () from /var/services/homes/adabral/ROP/mozilla-build/mozilla-release/obj-x86_64-unknown-linux-gnu/dist/bin/libxul.so
+0x00007fffe0439282 in ffi_call () from /var/services/homes/adabral/ROP/mozilla-build/mozilla-release/obj-x86_64-unknown-linux-gnu/dist/bin/libxul.so
+0x00007fffe0439285 in ffi_call () from /var/services/homes/adabral/ROP/mozilla-build/mozilla-release/obj-x86_64-unknown-linux-gnu/dist/bin/libxul.so
+0x00007fffe0439290 in ffi_call () from /var/services/homes/adabral/ROP/mozilla-build/mozilla-release/obj-x86_64-unknown-linux-gnu/dist/bin/libxul.so
+0x00007fffe0439294 in ffi_call () from /var/services/homes/adabral/ROP/mozilla-build/mozilla-release/obj-x86_64-unknown-linux-gnu/dist/bin/libxul.so
+0x00007fffe0439298 in ffi_call () from /var/services/homes/adabral/ROP/mozilla-build/mozilla-release/obj-x86_64-unknown-linux-gnu/dist/bin/libxul.so
+0x00007fffe043929b in ffi_call () from /var/services/homes/adabral/ROP/mozilla-build/mozilla-release/obj-x86_64-unknown-linux-gnu/dist/bin/libxul.so
+0x00007fffe04392b0 in ffi_call () from /var/services/homes/adabral/ROP/mozilla-build/mozilla-release/obj-x86_64-unknown-linux-gnu/dist/bin/libxul.so
+0x00007fffe04392b7 in ffi_call () from /var/services/homes/adabral/ROP/mozilla-build/mozilla-release/obj-x86_64-unknown-linux-gnu/dist/bin/libxul.so
+0x00007fffe04392bb in ffi_call () from /var/services/homes/adabral/ROP/mozilla-build/mozilla-release/obj-x86_64-unknown-linux-gnu/dist/bin/libxul.so
+Num     Type           Disp Enb Address            What
+1       breakpoint     keep y   <MULTIPLE>         
+	breakpoint already hit 4 times
+1.1                         y     0x00007fffdaa47214 <ffi_call+4>
+1.2                         y     0x00007fffe0438f44 <ffi_call+4>
+2       breakpoint     keep y   <MULTIPLE>         
+	breakpoint already hit 3 times
+2.1                         y     0x00007fffdaa47a90 <ffi_call_unix64>
+2.2                         y     0x00007fffe043a4c8 <ffi_call_unix64>
+3       breakpoint     keep y   0x00007fffe0438f44 <ffi_call+4>
+	breakpoint already hit 4 times
+4       breakpoint     keep y   0x00007fffe043a4c8 <ffi_call_unix64>
+	breakpoint already hit 3 times
+5       breakpoint     keep y   0x00007fffe04390c0 <ffi_call+384>
+	breakpoint already hit 3 times
+6       breakpoint     keep y   0x00007fffe043a514 <ffi_call_unix64+76>
+	breakpoint already hit 3 times
+Breakpoint 7 at 0x7fffe04390bb
+Continuing.
+
+Breakpoint 7, 0x00007fffe04390bb in ffi_call ()
+   from /var/services/homes/adabral/ROP/mozilla-build/mozilla-release/obj-x86_64-unknown-linux-gnu/dist/bin/libxul.so
+$48 = 0x7fffb10fa210
+0x00007fffde914c80 in ffi_call_unix64@plt () from /var/services/homes/adabral/ROP/mozilla-build/mozilla-release/obj-x86_64-unknown-linux-gnu/dist/bin/libxul.so
+$49 = 0x7fffb10fa208
+0x7fffb10fa208:	0x00007fffe04390c0
+
+Breakpoint 2, 0x00007fffe043a4c8 in ffi_call_unix64 ()
+   from /var/services/homes/adabral/ROP/mozilla-build/mozilla-release/obj-x86_64-unknown-linux-gnu/dist/bin/libxul.so
+$50 = 0x7fffb10fa210
+$51 = 0x7fffb10fa208
+0x00007fffe043a4cc in ffi_call_unix64 () from /var/services/homes/adabral/ROP/mozilla-build/mozilla-release/obj-x86_64-unknown-linux-gnu/dist/bin/libxul.so
+$52 = 0x7fffe04390c0
+$53 = 0x7fffab1ff080
+0x00007fffe043a4d0 in ffi_call_unix64 () from /var/services/homes/adabral/ROP/mozilla-build/mozilla-release/obj-x86_64-unknown-linux-gnu/dist/bin/libxul.so
+$54 = 0x7fffb10fa2c0
+0x00007fffe043a4d3 in ffi_call_unix64 () from /var/services/homes/adabral/ROP/mozilla-build/mozilla-release/obj-x86_64-unknown-linux-gnu/dist/bin/libxul.so
+$55 = 0xa
+0x00007fffe043a4d7 in ffi_call_unix64 () from /var/services/homes/adabral/ROP/mozilla-build/mozilla-release/obj-x86_64-unknown-linux-gnu/dist/bin/libxul.so
+0x00007fffe043a4db in ffi_call_unix64 () from /var/services/homes/adabral/ROP/mozilla-build/mozilla-release/obj-x86_64-unknown-linux-gnu/dist/bin/libxul.so
+$56 = 0x7fffb10fa2c0
+0x7fffb10fa2d8:	0x0000000000000000
+0x00007fffe043a4df in ffi_call_unix64 () from /var/services/homes/adabral/ROP/mozilla-build/mozilla-release/obj-x86_64-unknown-linux-gnu/dist/bin/libxul.so
+0x7fffb10fa2d8:	0x00007fffe04390c0
+0x00007fffe043a4e2 in ffi_call_unix64 () from /var/services/homes/adabral/ROP/mozilla-build/mozilla-release/obj-x86_64-unknown-linux-gnu/dist/bin/libxul.so
+0x00007fffe043a4e5 in ffi_call_unix64 () from /var/services/homes/adabral/ROP/mozilla-build/mozilla-release/obj-x86_64-unknown-linux-gnu/dist/bin/libxul.so
+0x00007fffe043a4e8 in ffi_call_unix64 () from /var/services/homes/adabral/ROP/mozilla-build/mozilla-release/obj-x86_64-unknown-linux-gnu/dist/bin/libxul.so
+0x00007fffe043a4eb in ffi_call_unix64 () from /var/services/homes/adabral/ROP/mozilla-build/mozilla-release/obj-x86_64-unknown-linux-gnu/dist/bin/libxul.so
+0x00007fffe043a4ee in ffi_call_unix64 () from /var/services/homes/adabral/ROP/mozilla-build/mozilla-release/obj-x86_64-unknown-linux-gnu/dist/bin/libxul.so
+0x00007fffe043a4f2 in ffi_call_unix64 () from /var/services/homes/adabral/ROP/mozilla-build/mozilla-release/obj-x86_64-unknown-linux-gnu/dist/bin/libxul.so
+0x00007fffe043a4f6 in ffi_call_unix64 () from /var/services/homes/adabral/ROP/mozilla-build/mozilla-release/obj-x86_64-unknown-linux-gnu/dist/bin/libxul.so
+0x00007fffe043a4fa in ffi_call_unix64 () from /var/services/homes/adabral/ROP/mozilla-build/mozilla-release/obj-x86_64-unknown-linux-gnu/dist/bin/libxul.so
+0x00007fffe043a4fe in ffi_call_unix64 () from /var/services/homes/adabral/ROP/mozilla-build/mozilla-release/obj-x86_64-unknown-linux-gnu/dist/bin/libxul.so
+0x00007fffe043a502 in ffi_call_unix64 () from /var/services/homes/adabral/ROP/mozilla-build/mozilla-release/obj-x86_64-unknown-linux-gnu/dist/bin/libxul.so
+0x00007fffe043a504 in ffi_call_unix64 () from /var/services/homes/adabral/ROP/mozilla-build/mozilla-release/obj-x86_64-unknown-linux-gnu/dist/bin/libxul.so
+0x00007fffe043a50a in ffi_call_unix64 () from /var/services/homes/adabral/ROP/mozilla-build/mozilla-release/obj-x86_64-unknown-linux-gnu/dist/bin/libxul.so
+0x00007fffe043a511 in ffi_call_unix64 () from /var/services/homes/adabral/ROP/mozilla-build/mozilla-release/obj-x86_64-unknown-linux-gnu/dist/bin/libxul.so
+rename () at ../sysdeps/unix/syscall-template.S:81
+rename () at ../sysdeps/unix/syscall-template.S:82
+
+Breakpoint 6, 0x00007fffe043a514 in ffi_call_unix64 ()
+   from /var/services/homes/adabral/ROP/mozilla-build/mozilla-release/obj-x86_64-unknown-linux-gnu/dist/bin/libxul.so
+0x00007fffe043a518 in ffi_call_unix64 () from /var/services/homes/adabral/ROP/mozilla-build/mozilla-release/obj-x86_64-unknown-linux-gnu/dist/bin/libxul.so
+0x00007fffe043a51c in ffi_call_unix64 () from /var/services/homes/adabral/ROP/mozilla-build/mozilla-release/obj-x86_64-unknown-linux-gnu/dist/bin/libxul.so
+0x00007fffe043a520 in ffi_call_unix64 () from /var/services/homes/adabral/ROP/mozilla-build/mozilla-release/obj-x86_64-unknown-linux-gnu/dist/bin/libxul.so
+0x00007fffe043a524 in ffi_call_unix64 () from /var/services/homes/adabral/ROP/mozilla-build/mozilla-release/obj-x86_64-unknown-linux-gnu/dist/bin/libxul.so
+0x00007fffe043a528 in ffi_call_unix64 () from /var/services/homes/adabral/ROP/mozilla-build/mozilla-release/obj-x86_64-unknown-linux-gnu/dist/bin/libxul.so
+0x00007fffe043a52f in ffi_call_unix64 () from /var/services/homes/adabral/ROP/mozilla-build/mozilla-release/obj-x86_64-unknown-linux-gnu/dist/bin/libxul.so
+0x00007fffe043a533 in ffi_call_unix64 () from /var/services/homes/adabral/ROP/mozilla-build/mozilla-release/obj-x86_64-unknown-linux-gnu/dist/bin/libxul.so
+0x00007fffe043a536 in ffi_call_unix64 () from /var/services/homes/adabral/ROP/mozilla-build/mozilla-release/obj-x86_64-unknown-linux-gnu/dist/bin/libxul.so
+0x00007fffe043a59e in ffi_call_unix64 () from /var/services/homes/adabral/ROP/mozilla-build/mozilla-release/obj-x86_64-unknown-linux-gnu/dist/bin/libxul.so
+0x00007fffe043a5a0 in ffi_call_unix64 () from /var/services/homes/adabral/ROP/mozilla-build/mozilla-release/obj-x86_64-unknown-linux-gnu/dist/bin/libxul.so
+0x00007fffe043a5a3 in ffi_call_unix64 () from /var/services/homes/adabral/ROP/mozilla-build/mozilla-release/obj-x86_64-unknown-linux-gnu/dist/bin/libxul.so
+
+Breakpoint 5, 0x00007fffe04390c0 in ffi_call ()
+   from /var/services/homes/adabral/ROP/mozilla-build/mozilla-release/obj-x86_64-unknown-linux-gnu/dist/bin/libxul.so
+0x00007fffe04390c4 in ffi_call () from /var/services/homes/adabral/ROP/mozilla-build/mozilla-release/obj-x86_64-unknown-linux-gnu/dist/bin/libxul.so
+0x00007fffe04390cd in ffi_call () from /var/services/homes/adabral/ROP/mozilla-build/mozilla-release/obj-x86_64-unknown-linux-gnu/dist/bin/libxul.so
+0x00007fffe04390d3 in ffi_call () from /var/services/homes/adabral/ROP/mozilla-build/mozilla-release/obj-x86_64-unknown-linux-gnu/dist/bin/libxul.so
+0x00007fffe04390d7 in ffi_call () from /var/services/homes/adabral/ROP/mozilla-build/mozilla-release/obj-x86_64-unknown-linux-gnu/dist/bin/libxul.so
+0x00007fffe04390d8 in ffi_call () from /var/services/homes/adabral/ROP/mozilla-build/mozilla-release/obj-x86_64-unknown-linux-gnu/dist/bin/libxul.so
+0x00007fffe04390da in ffi_call () from /var/services/homes/adabral/ROP/mozilla-build/mozilla-release/obj-x86_64-unknown-linux-gnu/dist/bin/libxul.so
+0x00007fffe04390dc in ffi_call () from /var/services/homes/adabral/ROP/mozilla-build/mozilla-release/obj-x86_64-unknown-linux-gnu/dist/bin/libxul.so
+0x00007fffe04390de in ffi_call () from /var/services/homes/adabral/ROP/mozilla-build/mozilla-release/obj-x86_64-unknown-linux-gnu/dist/bin/libxul.so
+0x00007fffe04390e0 in ffi_call () from /var/services/homes/adabral/ROP/mozilla-build/mozilla-release/obj-x86_64-unknown-linux-gnu/dist/bin/libxul.so
+0x00007fffe04390e1 in ffi_call () from /var/services/homes/adabral/ROP/mozilla-build/mozilla-release/obj-x86_64-unknown-linux-gnu/dist/bin/libxul.so
+js::ctypes::FunctionType::Call (cx=cx@entry=0x7fffb1495180, argc=<optimized out>, vp=0x7fffb10faba8)
+    at /var/services/homes/adabral/ROP/mozilla-build/mozilla-release/js/src/ctypes/CTypes.cpp:5856
+DoEndCallback (this=<optimized out>) at /var/services/homes/adabral/ROP/mozilla-build/mozilla-release/js/src/jsfriendapi.h:2154
+js::ctypes::FunctionType::Call (cx=cx@entry=0x7fffb1495180, argc=<optimized out>, vp=0x7fffb10faba8)
+    at /var/services/homes/adabral/ROP/mozilla-build/mozilla-release/js/src/ctypes/CTypes.cpp:5856
+DoEndCallback (this=0x7fffb10fa470) at /var/services/homes/adabral/ROP/mozilla-build/mozilla-release/js/src/jsfriendapi.h:2154
+(anonymous namespace)::CTypesActivityCallback (aCx=0x7fffb1495180, aType=js::CTYPES_CALL_END)
+    at /var/services/homes/adabral/ROP/mozilla-build/mozilla-release/dom/workers/RuntimeService.cpp:686
+mozilla::dom::workers::GetWorkerPrivateFromContext (aCx=0x7fffb1495180)
+    at /var/services/homes/adabral/ROP/mozilla-build/mozilla-release/dom/workers/RuntimeService.cpp:1172
+JS_GetRuntime (cx=0x7fffb1495180) at /var/services/homes/adabral/ROP/mozilla-build/mozilla-release/js/src/jsapi.cpp:810
+mozilla::dom::workers::GetWorkerPrivateFromContext (aCx=<optimized out>)
+    at /var/services/homes/adabral/ROP/mozilla-build/mozilla-release/dom/workers/RuntimeService.cpp:1179
+JS_GetRuntimePrivate (rt=0x7fffb1481000) at /var/services/homes/adabral/ROP/mozilla-build/mozilla-release/js/src/jsapi.cpp:684
+mozilla::dom::workers::GetWorkerPrivateFromContext (aCx=<optimized out>)
+    at /var/services/homes/adabral/ROP/mozilla-build/mozilla-release/dom/workers/RuntimeService.cpp:1182
+(anonymous namespace)::CTypesActivityCallback (aCx=<optimized out>, aType=js::CTYPES_CALL_END)
+    at /var/services/homes/adabral/ROP/mozilla-build/mozilla-release/dom/workers/RuntimeService.cpp:690
+BeginCTypesCallback (this=0x7fffb185ec00) at /var/services/homes/adabral/ROP/mozilla-build/mozilla-release/dom/workers/WorkerPrivate.h:1009
+A debugging session is active.
+
+	Inferior 1 [Remote target] will be killed.
+
+Quit anyway? (y or n) 
