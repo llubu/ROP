@@ -1,0 +1,1 @@
+/var/services/homes/adabral/elider/pin-2.14-67254-gcc.4.4.7-linux/pin -follow_execv 1 -t /var/services/homes/adabral/elider/pintools/obj-intel64/adplt_addr.so -- /var/services/homes/adabral/wildgoose-gcc/libc/new_build/elf/ld-linux-x86-64.so.2 --library-path /var/services/homes/adabral/wildgoose-gcc/libc/new_build/:/usr/lib64/:/lib64/ /usr/lib64/firefox/firefox
